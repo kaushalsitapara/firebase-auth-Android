@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51192379544",
+    "firebase_url": "https://login-activity-39b95.firebaseio.com",
+    "project_id": "login-activity-39b95",
+    "storage_bucket": "login-activity-39b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51192379544:android:e9d119b9d19b5e59e0f8ed",
+        "android_client_info": {
+          "package_name": "com.example.loginactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51192379544-pmobkjoo2d5fu7q3kpkrfj5c4o1obdu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhHxabjmPpG1Zh2Sx5l2EO1UK4GVGoKJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51192379544-pmobkjoo2d5fu7q3kpkrfj5c4o1obdu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
